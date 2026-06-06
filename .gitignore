@@ -6,6 +6,11 @@
 *.pem
 secrets.*
 
+# Local-only docs / project context (kept out of the public repo)
+CLAUDE.md
+PANELIST.md
+PANELIST_SERVER.md
+
 # Python
 **/.venv/
 **/__pycache__/
